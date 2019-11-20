@@ -1,3 +1,6 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/jodunk/userregis.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jodunk/userregis/alerts/)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/jodunk/userregis.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jodunk/userregis/alerts/)
+
 How to run the User Registration & Login and User Management System With admin panel Project
 
 1. Download the  zip file
